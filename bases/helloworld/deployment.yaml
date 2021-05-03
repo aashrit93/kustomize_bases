@@ -15,7 +15,7 @@ spec:
       labels:
         app: helloworld
     spec:
-      containers:
+      containers: 
       - name: server
         image: nginx:1.17
         

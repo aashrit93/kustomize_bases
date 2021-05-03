@@ -8,7 +8,7 @@ metadata:
 spec:
   type: LoadBalancer
   ports:
-  - name: helloworld-http
+   - name: helloworld-http
     port: 80
     protocol: TCP
     targetPort: 80
