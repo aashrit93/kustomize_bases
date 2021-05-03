@@ -4,20 +4,4 @@ metadata:
   name: helloworld
   namespace: aashrit
 data:
-  body: >
-    <html>
-      <style>
-        body {
-          background-color: #222;
-        }
-        p {
-          font-family:"Courier New";
-          font-size:xx-large;
-          color:#f22;
-          text-align:center;
-        }
-      </style>
-      <body>
-        <p>DEVELOPMENT</p>
-      </body>
-    </html>
+  body: DEVELOPMENT
